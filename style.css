@@ -163,14 +163,14 @@ header nav ul li a {
 }
 
 #step1 {
-  background: url("/Images/steps-icon-1.png") no-repeat top center;
+  background: url("Images/steps-icon-1.png") no-repeat top center;
 }
 
 #step2 {
-  background: url("/Images/steps-icon-2.png") no-repeat top center;
+  background: url("Images/steps-icon-2.png") no-repeat top center;
 }
 #step3 {
-  background: url("/Images/steps-icon-3.png") no-repeat top center;
+  background: url("Images/steps-icon-3.png") no-repeat top center;
 }
 
 /* POSSIBILITIES */
